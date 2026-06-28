@@ -8,7 +8,7 @@
   "server": {
     "ip": "ProSurvival1.aternos.me:64472",
     "port": 64472,
-    "version": "1.21.1"
+    "version": "26.1.2"
   },
   "position": {
     "enabled": true,
